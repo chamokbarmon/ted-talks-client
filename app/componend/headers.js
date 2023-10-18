@@ -91,7 +91,7 @@ const Header = () => {
           height={50}
         />
         <span class="font-bold text-red-600 text-2xl">TED TALKS</span>
-        <span class="font-bold text-stone-300 text-sm">
+        <span class="font-bold text-stone-300 text-sm mt-2 ml-2">
           Ideas worth spreading
         </span>
       </div>
